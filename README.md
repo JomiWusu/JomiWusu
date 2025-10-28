@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JomiWusu/JomiWusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Jomi Wusu</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>💻 Programmer | 🧠 Problem Solver | ⚙️ Tech Enthusiast</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 About Me
+- 💡 Passionate about **building tools that make IT and support work smarter**.  
+- 💻 Skilled in **Python**, **Java**, and **C++**, with a focus on automation and clean design.  
+- 🧰 Experienced in **network simulation**, **virtualization**, and **ticket management systems (Jira, Zendesk)**.  
+- 🚀 Always learning — from backend logic to systems infrastructure.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+```python
+Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS
