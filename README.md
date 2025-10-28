@@ -20,7 +20,7 @@
 #### 💻 Languages
 ```python
 Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS
-
+```
 ## 📬 Contact Me
 
 <p align="center">
