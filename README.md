@@ -1,9 +1,8 @@
-## Hi there 👋
 
-<h1 align="center">👋 Hey, I'm Jomi Wusu</h1>
+<h1 align="center">Hello, I'm Jomi Wusu</h1>
 
 <p align="center">
-  <em>💻 Programmer | 🧠 Problem Solver | ⚙️ Tech Enthusiast</em>
+  <em> Programmer |  Problem Solver |  Tech Enthusiast</em>
 </p>
 
 ---
@@ -22,4 +21,20 @@
 ```python
 Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS
 
-<p align="center"> <a href="mailto:wusujomi1@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/jomiwu"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/wusujomi"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center"> <em>Let's connect — whether it’s about a project, collaboration, or just to talk tech!</em> </p>
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:wusujomi1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jomiwu">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/wusujomi">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Let’s connect — whether it’s about a project, collaboration, or just to talk tech!</em>
+</p>
