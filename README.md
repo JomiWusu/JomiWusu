@@ -2,20 +2,20 @@
 <h1 align="center">Hello, I'm Jomi Wusu</h1>
 
 <p align="center">
-  <em> Programmer |  Problem Solver |  Tech Enthusiast</em>
+  <em> It Support |  Programmer |  Problem Solver</em>
 </p>
 
 ---
 
-### 🧩 About Me
-- 💡 Passionate about **building tools that make IT and support work smarter**.  
-- 💻 Skilled in **Python**, **Java**, and **C++**, with a focus on automation and clean design.  
-- 🧰 Experienced in **network simulation**, **virtualization**, and **ticket management systems (Jira, Zendesk)**.  
-- 🚀 Always learning — from backend logic to systems infrastructure.
+### About Me
+-  Passionate about **building tools that make IT and support work smarter**.  
+-  Skilled in **Python**, **Java**, and **C++**, with a focus on automation and clean design.  
+-  Experienced in **network simulation**, **virtualization**, and **ticket management systems (Jira, Zendesk)**.  
+-  Always learning — from backend logic to systems infrastructure.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### 💻 Languages
 ```python
