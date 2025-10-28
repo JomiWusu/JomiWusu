@@ -19,7 +19,7 @@
 
 #### 💻 Languages
 ```python
-Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS
+Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS   |   SQL
 ```
 ## 📬 Contact Me
 
