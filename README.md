@@ -1,10 +1,5 @@
 
 <h1 align="center">Hello, I'm Jomi Wusu</h1>
-
-<p align="center">
-  <em> It Support |  Programmer |  Problem Solver</em>
-</p>
-
 ---
 
 ### About Me
@@ -15,12 +10,6 @@
 
 ---
 
-###  Tech Stack
-
-#### 💻 Languages
-```python
-Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS   |   SQL
-```
 ## 📬 Contact Me
 
 <p align="center">
@@ -35,6 +24,3 @@ Python   |   Java   |   C++   |   JavaScript   |   HTML/CSS   |   SQL
   </a>
 </p>
 
-<p align="center">
-  <em>Let’s connect — whether it’s about a project, collaboration, or just to talk tech!</em>
-</p>
