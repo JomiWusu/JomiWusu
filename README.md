@@ -8,6 +8,6 @@
 -  In my freetime I like playing games one of my favorite game is assassins creed black flag
 -  I also love working out and running while listening to music
 
-Check out my projects below!
+Thank you for reading and check out my projects below!
 
 ---
