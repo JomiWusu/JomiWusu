@@ -1,6 +1,5 @@
 
 <h1 align="center">Hello, I'm Jomi Wusu</h1>
----
 
 ### About Me
 -  Passionate about **building tools that make IT and support work smarter**.  
