@@ -4,8 +4,10 @@
 
 ### About Me
 -  Passionate about **building tools that make IT and support work smarter**.  
--  Skilled in **Python**, **Java**, and **C++**, with a focus on automation and clean design.  
--  Experienced in **network simulation**, **virtualization**, and **ticket management systems (Jira, Zendesk)**.  
--  Always learning — from backend logic to systems infrastructure.
+-  The languages I have experience in are **Python**, **Java**, **C++**, **HTML** and SQL
+-  In my freetime I like playing games one of my favorite game is assassins creed black flag
+-  I also love working out and running while listening to music
+
+Check out my projects below!
 
 ---
